@@ -6,3 +6,5 @@ Credits to
 2. https://github.com/wepeco/registry_editor/blob/master/registry_editor/main.cpp#L22
 
 Code can be improved made this in 15 mins. 
+
+MAKE SURE TO RUN AS ADMIN!
